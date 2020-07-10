@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to Friends and Family
 
-You can use the [editor on GitHub](https://github.com/vercolani/mynewsite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Dear Family, 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A year ago I started to lose weight and felt tired after breakfast which I could not understand. I went to my doctor, who ran some blood tests that showed there were some issues with my kidneys. My Nephrologists (kidney doctor) did an ultra sound on my kidneys that showed they were performing just fine so he did a special blood test. When I got the results, I recorded it on a spreadsheet and looked up the items on the test that where high. I wanted to understand what was going on with my body.
 
-### Markdown
+The word Myeloma kept coming up many times. Myeloma I found out it is a rare form of cancer that affects the cells in your bone marrow with survival rates from 2 to 5 years, depressing! [Don’t get worried, I already did that for you. Read the rest.] So I had to see an Oncologist / Hematologist. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+After reading the current blood tests I was informed that there are two phases to Myeloma: an active phase and an inactive phase. The Oncologist seemed sure that is was the inactive type called MGUS (Monoclonal gammopathy of undetermined significance). More test were ordered which determined that I am in the beginning stages of MGUS. 
+While MGUS in time can turn into active Myeloma, it can take years. They will start to monitor my blood every six months to watch for any changes in the state of my MGUS. Until such a time as something changes there are no worries or other things that can be done. 
 
-```markdown
-Syntax highlighted code block
+While testing to see what was wrong my regular doctor had performed some blood tests that show that I now also have Type 2 Diabetes. [When it rains it pours.] Type 2 diabetes is age related. I eat correctly and exercise, my body either does not make enough insulin or does not use it properly. I have another blood test in August to determine what course of treatment is advised: pills, injection, or a combination of medications. 
 
-# Header 1
-## Header 2
-### Header 3
+I just wanted to let you all know at the same time. I plan on doing whatever necessary so I can live a long life and continue to aggravate the shit out of all of you. I love you all very much. I will keep you informed. Until then you now know as much as I. If you want to know more. Google it.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vercolani/mynewsite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+LDAD, LPOP
